@@ -1,0 +1,66 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=ACSE6.2
+
+[WINDOWS]
+main="ACSE6.2","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_collect_8py.html
+_collect_8py_source.html
+_matrix_8cpp.html
+_matrix_8cpp_source.html
+_matrix_8h.html
+_matrix_8h_source.html
+_r_e_a_d_m_e_8md.html
+_serial___wave___equation_8cpp.html
+_serial___wave___equation_8cpp_source.html
+_solver_8cpp.html
+_solver_8cpp_source.html
+_solver_8h.html
+_solver_8h_source.html
+annotated.html
+class_grid.html
+class_matrix.html
+classes.html
+classstrip.html
+files.html
+functions.html
+functions_func.html
+functions_vars.html
+globals.html
+globals_defs.html
+globals_func.html
+globals_vars.html
+hierarchy.html
+index.html
+main_8cpp.html
+main_8cpp_source.html
+md__r_e_a_d_m_e.html
+namespace_collect.html
+namespacemembers.html
+namespacemembers_func.html
+namespacemembers_vars.html
+namespaces.html
+pages.html
+bc_s.png
+bdwn.png
+class_grid.png
+class_matrix.png
+classstrip.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
